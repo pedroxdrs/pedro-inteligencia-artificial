@@ -1,3 +1,16 @@
+@media  screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+
+
+
+
+
+
+
 body {background-color: cornflowerblue;}
 .p1 {font-size: 300%;
      text-align: center;
