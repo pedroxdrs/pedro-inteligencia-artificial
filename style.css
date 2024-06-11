@@ -18,8 +18,8 @@ body {background-color: cornflowerblue;}
     border-color: black;
     border-width: 6px;
     border-style: groove;
-    margin-left: 30%;
-    margin-right: 20%;
+    margin-left: 50%;
+    margin-right: 25%;
 }
 
 
@@ -29,8 +29,8 @@ body {background-color: cornflowerblue;}
     border-color: black;
     border-width: 6px;
     border-style: groove;
-    margin-left: 30%;
-    margin-right: 20%;
+    margin-left: 20%;
+    margin-right: 50%;
 }
 
 .p3 {font-size: 150%;
